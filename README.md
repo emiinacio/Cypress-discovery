@@ -1,0 +1,17 @@
+- Checkpoints na Automação Web
+- Preenchendo campos
+- Validando a busca
+- Combinando CSS Selector 
+- Upload de arquivos
+- Submetendo forms e validando modal
+- Validando span de alerta
+- Massa de testes
+- Padrão de projeto com Page Objects
+- Viewport e Base URL
+- Ganchos do Cypress
+- Fixtures
+- Factory e Faker como dados dinâmicos
+- New ITs On The Block (Step by step)
+- Cypress Run com evidências em videos
+- Screenshots quando um teste falha
+- Github Actions
